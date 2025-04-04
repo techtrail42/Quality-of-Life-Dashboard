@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+importlib
+altair
+openpyxl
